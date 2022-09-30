@@ -20,3 +20,17 @@ Use aggregate functions in SQL and Python to answer the following sample questio
 
 Github source code link:
 https://lnkd.in/dbEAKY2G
+
+#Approach:
+
+#Step 1:
+Data Load using Python Pandas and conveting to csv.
+
+https://github.com/Lantav111/SQL-Project-Analyzing-Road-Safety-in-the-UK/blob/main/%F0%9F%8E%AFAnalyzing%20Road%20Safety%20in%20the%20UK%20-%20Jupyter%20Notebook.pdf
+
+https://github.com/Lantav111/SQL-Project-Analyzing-Road-Safety-in-the-UK/blob/main/%F0%9F%8E%AFAnalyzing%20Road%20Safety%20in%20the%20UK.ipynb
+
+#Step 2:
+SQL Data Analysis:
+
+https://github.com/Lantav111/SQL-Project-Analyzing-Road-Safety-in-the-UK/blob/main/%F0%9F%8E%AFAnalyzing%20Road%20Safety%20in%20the%20UK_SQL%20Query.docx
