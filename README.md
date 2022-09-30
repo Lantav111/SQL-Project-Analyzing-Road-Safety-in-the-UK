@@ -1,5 +1,3 @@
-#SQL-Project-Analyzing-Road-Safety-in-the-UK
-
 #🎯Analyzing Road Safety in the UK
 
 #Business problem:
