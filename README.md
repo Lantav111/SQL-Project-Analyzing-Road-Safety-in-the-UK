@@ -6,7 +6,7 @@ https://lnkd.in/dbEAKY2G
 #Solution:
 
 #Step 1:
-Data Load using Python Pandas and conveting to csv.
+Data Load using Python Pandas and converting to csv.
 
 https://github.com/Lantav111/SQL-Project-Analyzing-Road-Safety-in-the-UK/blob/main/%F0%9F%8E%AFAnalyzing%20Road%20Safety%20in%20the%20UK%20-%20Jupyter%20Notebook.pdf
 
